@@ -1,0 +1,11 @@
+Name,password,ID,membership,Borrowed,BorrowedBooks,Tags,MemberType
+John Smith,xs2c7z,2,Premium,True,The Handmaid's Tale-The Alchemist,Science fiction-Fiction,normalUser
+Jane Doe,qb8t9r,3,Normal,True,Wuthering Heights,Adventure fiction,studentUser
+Michael Johnson,wf6a4y,4,Diamond,True,The Lord of the Rings-The Hobbit-The Great Expectations,High fantasy-Novel,studentUser
+Emily Lee,ut5k9x,5,Normal,False,-1,Dystopian fiction,normalUser
+William Chen,mp7d6j,6,Diamond,True,One Hundred Years of Solitude-The Stranger in the Woods-The Little Prince,Magical realism-True crime-Novella,normalUser
+Jessica Kim,bh2e8n,7,Premium,True,The Handmaid's Tale-Atonement,War fiction-Dystopian fiction,staffUser
+David Rodriguez,la4h6t,8,Diamond,True,The Iliad-The Odyssey-The Divine Comedy,Philosophical fiction-Epic poetry-Allegory,normalUser
+Olivia Davis,yr8m3s,9,Normal,True,The Fault in Our Stars,Fantasy,staffUser
+Noah Wilson,pf3g5b,10,Diamond,True,The Picture of Dorian Gray-Jane Eyre-The Hound of the Baskervilles,Philosophical fiction-Gothic fiction-Mystery fiction,normalUser
+Sophia Martinez,je9d2s,11,Normal,True,Animal Farm,Political satire-Fantasy-Horror,staffUser

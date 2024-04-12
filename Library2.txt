@@ -1,0 +1,42 @@
+Reinhardt Wilhelm, 2070
+The Picture of Dorian Gray,Oscar Wilde,Philosophical fiction,1890,3
+The Iliad,Homer,Epic poetry,-763,10
+The Odyssey,Homer,Epic poetry,-769,7
+The Canterbury Tales,Geoffrey Chaucer,fiction ,1390,6
+The Divine Comedy,Dante Alighieri,Epic poetry,1320,5
+Don Quixote,Miguel de Cervantes,Satire,1605,2
+The Prince,Niccolò Machiavelli,Political philosophy,1532,9
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,1892,8
+Winnie-the-Pooh,A.A. Milne,Children's literature,1926,1
+The Wind in the Willows,Kenneth Grahame,Children's literature,1908,3
+The Chronicles of Narnia,C.S. Lewis,Fantasy,1950,6
+The Hobbit,J.R.R. Tolkien,Fantasy,1937,10
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,2
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science fiction,1979,8
+Dune,Frank Herbert,Science fiction,1965,5
+Ender's Game,Orson Scott Card,Science fiction,1985,9
+The Hunger Games,Suzanne Collins,Dystopian fiction,2008,4
+Fahrenheit 451,Ray Bradbury,Dystopian fiction,1953,6
+The Giver,Lois Lowry,Dystopian fiction,1993,7
+The Road,Cormac McCarthy,Fiction,2006,3
+The Catcher in the Rye,J.D. Salinger,Fiction,1951,5
+Slaughterhouse-Five,Kurt Vonnegut,Science fiction,1969,8
+Brave New World,Aldous Huxley,Dystopian fiction,1932,6
+1984,George Orwell,Dystopian fiction,1949,3
+Animal Farm,George Orwell,Political satire,1945,9
+To Kill a Mockingbird,Harper Lee,Fiction,1960,4
+Gone with the Wind,Margaret Mitchell,Romance,1936,3
+Pride and Prejudice,Jane Austen,Romance,1813,2
+Sense and Sensibility,Jane Austen,Romance,1811,5
+Northanger Abbey,Jane Austen,Romance,1817,7
+Emma,Jane Austen,Romance,1815,1
+Mansfield Park,Jane Austen,Romance,1814,6
+Persuasion,Jane Austen,Romance,1817,4
+Dracula,Bram Stoker,Horror,1897,2
+Frankenstein,Mary Shelley,Gothic fiction,1818,5
+The Turn of the Screw,Henry James,Gothic fiction,1898,10
+The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Horror,1886,1
+The Phantom of the Opera,Gaston Leroux,Gothic fiction,1910,7
+The War of the Worlds,H.G. Wells,Science fiction,1898,1
+The Time Machine,H.G. Wells,Science fiction,1895,4
+The Island of Dr. Moreau,H.G. Wells,Science fiction,1896,6
